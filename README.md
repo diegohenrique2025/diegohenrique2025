@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Diego Henrique! 👋
+### Analista de Dados em Formação | Especialista em Gestão Comercial
 
-<!--
-**diegohenrique2025/diegohenrique2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Sobre mim:**
+Estou no último semestre de **Análise e Desenvolvimento de Sistemas** (Previsão: 1º Semestre/2026) e possuo 10 anos de experiência sólida em Gestão Comercial. Minha missão é unir a **visão de negócios** com a **engenharia de dados** para gerar valor real.
 
-Here are some ideas to get you started:
+Atualmente, estou focado em aprofundar meus conhecimentos em Engenharia e Ciência de Dados, ETL e visualização estratégica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**Linguagens & Banco de Dados:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Análise & Visualização:**
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Outros:**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
+
+---
+
+### 📊 Estatísticas do GitHub
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegohenrique2025&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohenrique2025&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+### 📫 Contato
+* 💼 [[LinkedIn](https://www.linkedin.com/in/diegohenrique2025/)]
+* 📧 idhiba@icloud.com
