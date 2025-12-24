@@ -22,11 +22,6 @@ Atualmente, estou focado em aprofundar meus conhecimentos em Engenharia e Ciênc
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
 
----
-
-### 📊 Estatísticas do GitHub
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegohenrique2025&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohenrique2025&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
